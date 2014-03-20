@@ -86,7 +86,7 @@ section h1 {
   display: block;
 }
 .jumbotron a.btn-default {
-  margin-top: 20px;
+/*  margin-top: 20px; */
   margin-bottom: 20px;
   padding: 20px;
   font-size: 26px;
@@ -347,7 +347,7 @@ footer ul>li:last-child {
 }
 a[data-toggle="tooltip"] {
   color: inherit;
-  border-bottom: 1px dashed #000;
+  border-bottom: 1px dashed;
   text-decoration: none;
 }
 .tag {
